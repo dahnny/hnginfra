@@ -35,7 +35,7 @@ def read_health() -> MessageResponse:
 @app.get("/me", response_model=MeResponse, status_code=status.HTTP_200_OK)
 def read_me() -> MeResponse:
     return MeResponse(
-        name="Your Full Name",
-        email="you@example.com",
-        github="https://github.com/yourusername",
+        name="Daniel Ogbuti",
+        email="danielogbuti@gmail.com",
+        github="https://github.com/dahnny",
     )
