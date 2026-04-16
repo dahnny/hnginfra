@@ -14,7 +14,7 @@ The application runs on a private local port on the server, while Nginx handles 
 
 ## Live URL
 
-Base URL: `https://hnginfra.duckdns.org`
+Base URL: https://hnginfra.duckdns.org
 
 Update this value with your deployed domain or public server IP.
 
